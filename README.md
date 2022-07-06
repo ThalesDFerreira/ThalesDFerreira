@@ -35,7 +35,7 @@
 
 
 [![Thales David Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalesDFerreira)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesDFerreira)](https://github.com/anuraghazra/github-readme-stats)
 <br /> 
 
 - 📫 How to reach me:<br>
