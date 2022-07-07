@@ -1,27 +1,44 @@
-***********************************
-### Olá Peesoal 👋
+## 👋Olá Pessoal, eu sou Thales Ferreira.
 
-<!--
-**anishghimire603/anishghimire603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>About me</b> <br>
-- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Anish Ghimire from Nepal 🇳🇵.
-- 🔭 I’m currently pursuing my Bachelor of Science in Computer Science and Information Technology(Bsc.CSIT).
-- 🌱 I’m currently learning Full-Stack Development, 3D modeling, ML and IOT.
-- 👯 I’m looking to collaborate on Open-source Projects.
-- 💬 Ask me about Web, 3D, Ml & IOT Technologies.
+## Sou um Advogado apaixonado por tecnologia.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalesDFerreira)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesDFerreira)](https://github.com/anuraghazra/github-readme-stats)
-<br /> 
+### Desenvolvedor Fornt-End
 
-- 📫 How to reach me:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.facebook.com/Anish.Ghimire603?ref=bookmarks"> <img src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" height= 15px width = 15px> Facebook </a>&nbsp;&nbsp;
-<a href = "https://www.instagram.com/ghimire.aniz"><img src = "https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
-<a href = "https://www.linkedin.com/in/anish-ghimire-4b872715a/"><img src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
-<a href = "https://ganish.com.np/"><img src = "https://image.flaticon.com/icons/svg/841/841364.svg" height= 15px width = 15px> Website </a>
+- Sou estudante da Trybe e atualmente estou estudando React, React-Redux, ContextApi.
 
-*************
+<div>
+  <a href = "mailto:thalesferreira190@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thales-david-ferreira-a47378107/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a> 
+  <a href="https://api.whatsapp.com/send?phone=5516992746725" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+</div>
 
-From [anishghimire603](https://github.com/anishghimire603)
+<div style="display: inline_block">
+  <a href="https://github.com/ThalesDFerreira"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThalesDFerreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesDFerreira&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-#### Thank You 🙏🏼
+<div style="display: inline_block"><br>
+  <img align="center" alt="Th-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Th-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img align="center" alt="Th-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="Th-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="Th-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="Th-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Th-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+  <img align="center" alt="Th-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Th-java" height="30" width="40" src="./images/vue-logo.png" />
+  <img align="center" alt="Th-java" height="30" width="40" src="https://user-images.githubusercontent.com/72468632/151837988-c9c4825c-bc50-47d6-8d69-37de86f67f6e.png" />
+
+  <img align="right" alt="Th-gif" src="https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" />
+
+</div>
+
+  
+  ##
+ 
+<div>
+  
+  ![Snake animation](https://github.com/ThalesDFerreira/ThalesDFerreira/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
