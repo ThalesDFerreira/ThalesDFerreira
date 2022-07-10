@@ -26,9 +26,8 @@
   <img align="center" alt="Th-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Th-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" alt="Th-Redux" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  ![dormrm](https://user-images.githubusercontent.com/99926224/178135024-813b27ed-abde-4771-8499-96aefc46a87a.gif)
-
 </div>
+![dormrm](https://user-images.githubusercontent.com/99926224/178135042-b97d3d6a-abc2-4047-a530-b37b56aa9e31.gif)
 
 ##
  
