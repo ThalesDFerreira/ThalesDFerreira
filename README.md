@@ -1,4 +1,5 @@
-![0vbfzhjcsjs0u716x88o](https://user-images.githubusercontent.com/99926224/178134923-f6352f32-196b-49bc-bfa0-563d8293a796.gif)
+![0vbfzhjcsjs0u716x88o](https://user-images.githubusercontent.com/99926224/178134923-f6352f32-196b-49bc-bfa0-563d8293a796.gif)![dormrm](https://user-images.githubusercontent.com/99926224/178135053-5dcc33a5-4a3e-408b-855c-e3ba6904a4ed.gif)
+
 
 ## 👋Olá Pessoal, eu sou Thales Ferreira.
 
@@ -27,7 +28,6 @@
   <img align="center" alt="Th-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" alt="Th-Redux" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 </div>
-![dormrm](https://user-images.githubusercontent.com/99926224/178135042-b97d3d6a-abc2-4047-a530-b37b56aa9e31.gif)
 
 ##
  
