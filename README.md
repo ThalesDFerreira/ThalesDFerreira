@@ -1,3 +1,5 @@
+<img align="center" alt="Thgif" height="30" width="40" src="https://user-images.githubusercontent.com/99926224/178134858-a7af6a79-bf65-47b3-b760-843e43ba3aa8.gif />
+
 ## 👋Olá Pessoal, eu sou Thales Ferreira.
 
 ## Sou um Advogado apaixonado por tecnologia.
