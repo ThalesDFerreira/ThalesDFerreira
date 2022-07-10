@@ -1,4 +1,4 @@
-<img align="center" alt="Thgif" height="30" width="40" src="https://user-images.githubusercontent.com/99926224/178134858-a7af6a79-bf65-47b3-b760-843e43ba3aa8.gif />
+![0vbfzhjcsjs0u716x88o](https://user-images.githubusercontent.com/99926224/178134923-f6352f32-196b-49bc-bfa0-563d8293a796.gif)
 
 ## 👋Olá Pessoal, eu sou Thales Ferreira.
 
@@ -28,9 +28,8 @@
   <img align="center" alt="Th-Redux" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 </div>
 
-<div style="display: inline_block"><br>
-![coding](https://user-images.githubusercontent.com/99926224/178134845-bf4e8ee5-4d13-4dc0-8a8f-ea4d2ef18d64.gif)
-</div>
+![coding](https://user-images.githubusercontent.com/99926224/178134936-178f106f-67a2-4be1-8225-4aabfc7bcf37.gif)
+
 
 ##
  
