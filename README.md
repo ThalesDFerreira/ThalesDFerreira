@@ -1,5 +1,4 @@
-![0vbfzhjcsjs0u716x88o](https://user-images.githubusercontent.com/99926224/178134923-f6352f32-196b-49bc-bfa0-563d8293a796.gif)![dormrm](https://user-images.githubusercontent.com/99926224/178135053-5dcc33a5-4a3e-408b-855c-e3ba6904a4ed.gif)
-
+![0vbfzhjcsjs0u716x88o](https://user-images.githubusercontent.com/99926224/178134923-f6352f32-196b-49bc-bfa0-563d8293a796.gif)![dormrm2](https://user-images.githubusercontent.com/99926224/178135121-18b9d95f-767c-4a59-a5ae-6b0f6d841659.gif)
 
 ## 👋Olá Pessoal, eu sou Thales Ferreira.
 
