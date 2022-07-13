@@ -31,7 +31,7 @@
 ##
 
 <div style="display: inline_block">
-  <a href="[https://github.com/ThalesDFerreira](https://thalesdferreira.github.io/)"/>
+  <a href="https://thalesdferreira.github.io"/>
   <img align="center" alt="Th-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 </div>
 
