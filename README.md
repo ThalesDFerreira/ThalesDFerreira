@@ -29,7 +29,14 @@
 </div>
 
 ##
- 
+
+<div style="display: inline_block">
+  <a href="[https://github.com/ThalesDFerreira](https://thalesdferreira.github.io/)"/>
+  <img align="center" alt="Th-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+</div>
+
+##
+
 <div>
   
   ![Snake animation](https://github.com/ThalesDFerreira/ThalesDFerreira/blob/output/github-contribution-grid-snake.svg)
