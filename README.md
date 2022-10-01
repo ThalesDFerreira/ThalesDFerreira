@@ -8,7 +8,7 @@
 
 - Sou estudante da Trybe e atualmente estou estudando Typescript.
 
-- Tecnoligias aprendidas: HTML | CSS | JAVASCRIPT | REACT | REDUX | JEST | DOCKER | MYSQL | HEROKU | SEQUELIZE | NODE
+- Tecnoligias aprendidas: HTML | CSS | JAVASCRIPT | REACT | REDUX | JEST | DOCKER | MYSQL | HEROKU | SEQUELIZE | NODE | EXPRESS
 
 <div>
   <a href = "mailto:thalesferreira190@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -34,6 +34,7 @@
   <img align="center" alt="Th-Heroku" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
   <img align="center" alt="Th-Sequelize" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
   <img align="center" alt="Th-Node" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="Th-Node" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 </div>
 
 ##
