@@ -3,7 +3,7 @@
 
 ## Sou um Advogado apaixonado por tecnologia.
 
-### Desenvolvedor Fornt-End
+### Desenvolvedor Full Stack Developer
 
 - Sou estudante da Trybe e atualmente estou estudando Typescript.
 
