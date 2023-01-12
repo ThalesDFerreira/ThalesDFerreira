@@ -1,5 +1,4 @@
-![0vbfzhjcsjs0u716x88o](https://user-images.githubusercontent.com/99926224/178134923-f6352f32-196b-49bc-bfa0-563d8293a796.gif)![dormrm2](https://user-images.githubusercontent.com/99926224/178135121-18b9d95f-767c-4a59-a5ae-6b0f6d841659.gif)
-<img align="between" alt="Th-HTML" height="60" width="70" src="https://user-images.githubusercontent.com/99926224/178135121-18b9d95f-767c-4a59-a5ae-6b0f6d841659.gif" />
+![0vbfzhjcsjs0u716x88o](https://user-images.githubusercontent.com/99926224/178134923-f6352f32-196b-49bc-bfa0-563d8293a796.gif)
 ## 👋Olá Pessoal, eu sou Thales Ferreira.
 
 ## Sou um Advogado apaixonado por tecnologia.
