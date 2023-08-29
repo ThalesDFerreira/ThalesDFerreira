@@ -36,13 +36,12 @@
   <img align="center" alt="Th-Node" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 </div>
 
-##
-### Meu Portfólio
+**Meu Portfólio**
 <div style="display: inline_block">
   <a href="https://thalesdferreira.github.io"/>
   <img align="center" alt="Dev" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" />
 </div>
-Perfil Dio.me
+**Perfil Dio.me**
 <div style="display: inline_block">
   <a href="https://www.dio.me/users/thalesferreira190"/>
   <img align="center" alt="Dev" height="100" width="100" src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" />
