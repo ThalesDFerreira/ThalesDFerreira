@@ -50,4 +50,10 @@
   <img align="center" alt="Dev" height="100" width="100" src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" />
 </div>
   
-![snake animation](https://github.com/ThalesDFerreira/ThalesDFerreira/blob/output/github-contribution-grid-snake2.svg)
+<div align="center">
+  <h2>🐍 Minhas Contribuições 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ThalesDFerreira/ThalesDFerreira/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
