@@ -50,4 +50,4 @@
   <img align="center" alt="Dev" height="100" width="100" src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" />
 </div>
   
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/ThalesDFerreira/ThalesDFerreira/blob/output/github-contribution-grid-snake2.svg)
