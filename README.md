@@ -42,8 +42,7 @@
   <a href="https://thalesdferreira.github.io"/>
   <img align="center" alt="Dev" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" />
 </div>
-  
-  
+    <br><br>
 **Perfil Dio.me**
 <div style="display: inline_block">
   <a href="https://www.dio.me/users/thalesferreira190"/>
