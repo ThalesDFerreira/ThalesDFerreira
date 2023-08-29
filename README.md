@@ -47,7 +47,6 @@
   <a href="[https://thalesdferreira.github.io](https://www.dio.me/users/thalesferreira190)"/>
   <img align="center" alt="Dev" height="100" width="100" src="https://web.dio.me/home" />
 </div>
-##
 
 <div>
   
