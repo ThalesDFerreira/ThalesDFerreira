@@ -49,8 +49,9 @@
   <a href="https://www.dio.me/users/thalesferreira190"/>
   <img align="center" alt="Dev" height="100" width="100" src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" />
 </div>
-<div>
-  
-  ![Snake animation](https://github.com/ThalesDFerreira/ThalesDFerreira/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
