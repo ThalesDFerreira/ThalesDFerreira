@@ -7,7 +7,7 @@
 
 - Sou estudante da Trybe e atualmente estou estudando Typescript.
 
-- Tecnoligias aprendidas: HTML | CSS | JAVASCRIPT | REACT | REDUX | JEST | DOCKER | MYSQL | HEROKU | SEQUELIZE | NODE | EXPRESS
+- Tecnoligias aprendidas: HTML | CSS | JAVASCRIPT | REACT | REDUX | JEST | DOCKER | MYSQL | HEROKU | SEQUELIZE | NODE | EXPRESS | JAVA | ANGULAR | VUE
 
 <div>
   <a href = "mailto:thalesferreira190@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
