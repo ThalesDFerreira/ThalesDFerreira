@@ -1,11 +1,11 @@
 ![0vbfzhjcsjs0u716x88o](https://user-images.githubusercontent.com/99926224/178134923-f6352f32-196b-49bc-bfa0-563d8293a796.gif)
 ## 👋Olá Pessoal, eu sou Thales Ferreira.
 
-## Sou um Advogado apaixonado por tecnologia.
+## Sou apaixonado por tecnologia.
 
 ### Desenvolvedor Full Stack | Front-end | Back-end
 
-- Sou estudante da Trybe e atualmente estou estudando Typescript.
+- Sou formado pela Trybe e atualmente estou trabalhando na SMi Tech.
 
 - Tecnoligias aprendidas: HTML | CSS | JAVASCRIPT | REACT | REDUX | JEST | DOCKER | MYSQL | HEROKU | SEQUELIZE | NODE | EXPRESS | JAVA | ANGULAR | VUE
 
