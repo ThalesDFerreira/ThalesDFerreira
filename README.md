@@ -7,7 +7,7 @@
 
 - Sou formado pela Trybe e atualmente estou trabalhando na SMi Tech.
 
-- Tecnoligias aprendidas: HTML | CSS | JAVASCRIPT | REACT | REDUX | JEST | DOCKER | MYSQL | HEROKU | SEQUELIZE | NODE | EXPRESS | JAVA | ANGULAR | VUE
+- Tecnoligias aprendidas: HTML | CSS | JAVASCRIPT | REACT | REDUX | JEST | DOCKER | MYSQL | HEROKU | SEQUELIZE | NODE | EXPRESS | JAVA | ANGULAR | VUE | NEXTJS | NESTJS
 
 <div>
   <a href = "mailto:thalesferreira190@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
