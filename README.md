@@ -1,13 +1,14 @@
 ![0vbfzhjcsjs0u716x88o](https://user-images.githubusercontent.com/99926224/178134923-f6352f32-196b-49bc-bfa0-563d8293a796.gif)
-## 👋Olá Pessoal, eu sou Thales Ferreira.
 
-## Sou apaixonado por tecnologia.
+## 👋Hello Everyone, I'm Thales Ferreira.
 
-### Desenvolvedor Full Stack | Front-end | Back-end
+## I'm passionate about technology.
 
-- Sou formado pela Trybe e atualmente estou trabalhando na SMi Tech.
+### Full Stack Developer | Front-end | Back-end
 
-- Tecnoligias aprendidas: HTML | CSS | JAVASCRIPT | REACT | REDUX | JEST | DOCKER | MYSQL | HEROKU | SEQUELIZE | NODE | EXPRESS | JAVA | ANGULAR | VUE | NEXTJS | NESTJS
+- I graduated from Trybe and I'm currently working at SMi Tech.
+
+- Technologies learned: HTML | CSS | JAVASCRIPT | REACT | REDUX | JEST | DOCKER | MYSQL | HEROKU | SEQUELIZE | NODE | EXPRESS | JAVA | ANGULAR | VUE | NEXTJS | NESTJS
 
 <div>
   <a href = "mailto:thalesferreira190@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -33,23 +34,23 @@
   <img align="center" alt="Th-Heroku" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
   <img align="center" alt="Th-Sequelize" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
   <img align="center" alt="Th-Node" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" alt="Th-Node" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  <img align="center" alt="Th-Express" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 </div>
   
-**Meu Portfólio**
+**My Portfolio**
 <div style="display: inline_block">
   <a href="https://thalesdferreira.github.io"/>
   <img align="center" alt="Dev" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" />
 </div>
     
-**Perfil Dio.me**
+**Dio.me Profile**
 <div style="display: inline_block">
   <a href="https://www.dio.me/users/thalesferreira190"/>
   <img align="center" alt="Dev" height="100" width="100" src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" />
 </div>
   
 <div align="center">
-  <h2>🐍 Minhas Contribuições 🐍</h2>
+  <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ThalesDFerreira/ThalesDFerreira/output/github-contribution-grid-snake.svg" />
   
