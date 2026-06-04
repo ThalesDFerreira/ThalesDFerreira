@@ -9,7 +9,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:22D3EE&height=190&section=header&text=Thales%20Ferreira&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Full%20Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=520&lines=Passionate+about+technology.;Front-end+%7C+Back-end;Always+learning+something+new." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=520&lines=Apaixonado+por+tecnologia.;Front-end+%7C+Back-end;Sempre+aprendendo+algo+novo." alt="Typing SVG" />
 </a>
 
 </div>
@@ -18,8 +18,8 @@
 
 <div align="center">
 
-Hi there! 👋 I'm **Thales Ferreira**, a Full Stack Developer trained at **Trybe**, currently working at **SMi Tech**.
-I turn ideas into well-crafted products — from front-end to back-end, always focused on quality and user experience.
+Olá! 👋 Sou **Thales Ferreira**, desenvolvedor Full Stack formado pela **Trybe** e atualmente na **SMi Tech**.
+Transformo ideias em produtos bem construídos — do front-end ao back-end, sempre com foco em qualidade e na experiência de quem usa.
 
 </div>
 
@@ -30,7 +30,7 @@ I turn ideas into well-crafted products — from front-end to back-end, always f
 <a href="mailto:thalesferreira190@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/thales-david-ferreira-a47378107/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://api.whatsapp.com/send?phone=5516992746725" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
-<a href="https://thalesdev.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=netlify&logoColor=white" /></a>
+<a href="https://thalesdev.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-6366F1?style=flat-square&logo=netlify&logoColor=white" /></a>
 <a href="https://www.dio.me/users/thalesferreira190" target="_blank"><img src="https://img.shields.io/badge/DIO-141A2E?style=flat-square&logo=digitalocean&logoColor=white" /></a>
 
 </div>
@@ -39,7 +39,7 @@ I turn ideas into well-crafted products — from front-end to back-end, always f
 
 <div align="center">
 
-### 🛠️ Technologies
+### 🛠️ Tecnologias
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,jest,nodejs,express&theme=dark" />
 <br>
@@ -66,7 +66,7 @@ I turn ideas into well-crafted products — from front-end to back-end, always f
 
 <div align="center">
 
-### 🐍 Contributions
+### 🐍 Contribuições
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ThalesDFerreira/ThalesDFerreira/output/github-contribution-grid-snake.svg" />
 
